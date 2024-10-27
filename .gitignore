@@ -2,3 +2,9 @@ minecraft/mods/*
 minecraft/resourcepacks
 minecraft/saves
 !minecraft/mods/.index
+minecraft/crash-reports
+minecraft/ESM
+minecraft/ldlib
+minecraft/logs/
+minecraft/modernfix
+minecraft/logs/latest.log

@@ -1,0 +1,16 @@
+filename = 'ExHammersJAR1.04.jar'
+name = 'Ex Hammers'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8a90067114f90cc16695c30b729ad9f54356d97d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5025158
+project-id = 950161

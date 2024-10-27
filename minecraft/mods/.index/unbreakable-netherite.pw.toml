@@ -1,0 +1,16 @@
+filename = 'UnbreakableNetheriteJAR.jar'
+name = 'Unbreakable Netherite'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8e62eff998af317bd259d0fd299deb8381c7e961'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4959842
+project-id = 950582

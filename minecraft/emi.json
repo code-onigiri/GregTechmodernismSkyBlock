@@ -1,0 +1,32 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:cobblestone",
+    "item:minecraft:oak_slab",
+    {
+      "type": "item",
+      "id": "minecraft:oak_log",
+      "amount": 64
+    },
+    "item:gtceu:basalt_chromite_ore",
+    "#item:forge:ores/chromite",
+    "item:gtceu:chromium_dust",
+    "item:gtceu:stainless_steel_dust",
+    "item:gtceu:stainless_steel_ingot",
+    {
+      "type": "item",
+      "id": "gtceu:stainless_steel_plate",
+      "amount": 6
+    },
+    "item:gtceu:clean_machine_casing",
+    "item:gtceu:stainless_evaporation_casing"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

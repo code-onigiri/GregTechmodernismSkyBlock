@@ -1,0 +1,16 @@
+filename = 'SimpleResourceGeneratorsJAR1.12.jar'
+name = 'Simple Sky Resource Generators'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25b9d1828f2ebca8ca41073b81f6e5e17fb7908b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5108586
+project-id = 948781
