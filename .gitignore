@@ -1,3 +1,4 @@
-minecraft/mods
+minecraft/mods/*
 minecraft/resourcepacks
 minecraft/saves
+!minecraft/mods/.index
